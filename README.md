@@ -8,7 +8,6 @@
 [![GitHub Stars](https://img.shields.io/github/stars/byeongal/python-template-repository.svg)](https://github.com/byeongal/python-template-repository/stargazers)
 ![GitHub Forks](https://img.shields.io/github/forks/byeongal/python-template-repository.svg)
 [![GitHub Watch](https://img.shields.io/github/watchers/byeongal/python-template-repository.svg)](https://github.com/byeongal/python-template-repository/stargazers)
-![Github Downloads](https://img.shields.io/github/downloads/byeongal/python-template-repository/total)
 
 ![Supported Python versions](https://img.shields.io/badge/python-3.8-brightgreen)
 [![Imports](https://img.shields.io/badge/imports-isort-brightgreen)](https://pycqa.github.io/isort/)
