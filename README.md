@@ -2,7 +2,6 @@
 
 [![Github Contributors](https://img.shields.io/github/contributors/byeongal/python-template-repository)](https://github.com/badges/byeongal/python-template-repository/contributors)
 [![GitHub issues](https://img.shields.io/github/issues/byeongal/python-template-repository.svg)](https://github.com/byeongal/python-template-repository/issues)
-[![GitHub LICENSE](https://img.shields.io/github/license/byeongal/python-template-repository.svg)](https://github.com/byeongal/python-template-repository/blob/main/LICENSE)
 ![Github Last Commit](https://img.shields.io/github/last-commit/byeongal/python-template-repository)
 ![Github Repository Size](https://img.shields.io/github/repo-size/byeongal/python-template-repository)
 [![GitHub Stars](https://img.shields.io/github/stars/byeongal/python-template-repository.svg)](https://github.com/byeongal/python-template-repository/stargazers)
