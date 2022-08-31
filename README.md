@@ -18,7 +18,7 @@
 ![Package Management](https://img.shields.io/badge/package%20management-poetry-blue?logo=Poetry)
 
 ## Description
-This repository a template repository for new Python Project. Before using this repository, you should modify the [README.md](./README.md) and the [LICENSE](./LICENSE).
+This repository a template repository for new Python Project. Before using this repository, you should modify [README.md](./README.md), [LICENSE](./LICENSE) and [pyproject.toml](./pyproject.toml).
 
 ## Installation
 How to install your python code.
