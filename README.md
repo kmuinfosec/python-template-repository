@@ -5,8 +5,8 @@
 ![Github Last Commit](https://img.shields.io/github/last-commit/byeongal/python-template-repository)
 ![Github Repository Size](https://img.shields.io/github/repo-size/byeongal/python-template-repository)
 [![GitHub Stars](https://img.shields.io/github/stars/byeongal/python-template-repository.svg)](https://github.com/byeongal/python-template-repository/stargazers)
-![GitHub Forks](https://img.shields.io/github/forks/byeongal/python-template-repository.svg)
-[![GitHub Watch](https://img.shields.io/github/watchers/byeongal/python-template-repository.svg)](https://github.com/byeongal/python-template-repository/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/byeongal/python-template-repository.svg)](https://github.com/byeongal/python-template-repository/network/members)
+[![GitHub Watch](https://img.shields.io/github/watchers/byeongal/python-template-repository.svg)](https://github.com/byeongal/python-template-repository/watchers)
 
 ![Supported Python versions](https://img.shields.io/badge/python-3.8-brightgreen)
 [![Imports](https://img.shields.io/badge/imports-isort-brightgreen)](https://pycqa.github.io/isort/)
